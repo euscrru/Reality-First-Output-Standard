@@ -1,4 +1,5 @@
 # Reality‑First Output Standard (RFOS) v1.0
+**Author:** Craig D. Ruby — v1.0 (2025-11-09)
 **Purpose:** Make AI answers prioritize *how things work in the real world* over idealized or institutional models.
 **Scope:** Any AI answer on policy, economics, health, crime, education, energy, tech, or social outcomes.
 
